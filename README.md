@@ -1,2 +1,3 @@
-# Projeto de pesquisa 2022
- 
+# Projeto de pesquisa 2022 - Investigação do uso de diferentes técnicas de inteligência artificial na previsão de resultados de partidas de futebol explorando bases de dados obtidas em partidas de copa do mundo
+
+A utilização de técnicas de inteligência artificial para realizar predição e previsão de resultados de partidas de futebol é um problema bastante explorado na literatura. O termo predição, do inglês prediction, significa o que se consegue predizer, o que se diz antecipadamente e o termo previsão, do inglês forecasting, significa o que se consegue antever, o que se faz antecipadamente. A diferença é que a previsão trabalha com projeção futura de dados e a predição não nenhuma projeção. Diversas pesquisam demonstram a eficiência de algoritmos de Inteligência Artificial para demonstrar quais as características mais relevantes na predição de resultados de partidas de futebol. A hipótese de trabalho dessa pesquisa é testar se essa possibilidade é válida em dados provenientes de partidas disputadas em Copas do Mundo da FIFA.
